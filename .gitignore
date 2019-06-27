@@ -23,6 +23,8 @@
 *.a
 *.la
 *.lo
+libbpf
+.vscode
 
 # Shared objects (inc. Windows DLLs)
 *.dll
